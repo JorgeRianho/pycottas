@@ -1,12 +1,12 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arenas-guerrero-julian/pycottas/main/logo/logo_inverse.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arenas-guerrero-julian/pycottas/main/logo/logo.png">
-    <img alt="3xmap-studio"  height="150" src="https://raw.githubusercontent.com/morph-kgc/3xmap-studio/main/logo/logo.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cottas-rdf/pycottas/main/logo/logo_inverse.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cottas-rdf/pycottas/main/logo/logo.png">
+    <img alt="3xmap-studio"  height="150" src="https://raw.githubusercontent.com/cottas-rdf/pycottas/main/logo/logo.png">
   </picture>
 </p>
 
-[![License](https://img.shields.io/pypi/l/pycottas)](https://github.com/arenas-guerrero-julian/pycottas/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/pycottas)](https://github.com/cottas-rdf/pycottas/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/633315029.svg)](https://doi.org/10.5281/zenodo.15350990)
 [![Latest PyPI version](https://img.shields.io/pypi/v/pycottas?style=flat)](https://pypi.python.org/pypi/pycottas)
 [![Python Version](https://img.shields.io/pypi/pyversions/pycottas.svg)](https://pypi.python.org/pypi/pycottas)
@@ -22,7 +22,7 @@
 - [RDFLib](https://github.com/RDFLib/rdflib) store backend for querying COTTAS files with **[SPARQL](https://www.w3.org/TR/sparql11-query/)**.
 - Supports [RDF datasets](https://www.w3.org/TR/rdf11-concepts/#section-dataset) (**quads**).
 - Can be used as a **library** or via **command line**.
-- Serve COTTAS files as an [SPARQL endpoint](https://github.com/arenas-guerrero-julian/pycottas-endpoint).
+- Serve COTTAS files as an [SPARQL endpoint](https://github.com/cottas-rdf/pycottas-endpoint).
 
 ## Documentation :bookmark_tabs:
 
@@ -67,7 +67,7 @@ To execute via **command line** check the [docs](https://pycottas.readthedocs.io
 
 ## License :unlock:
 
-**pycottas** is available under the **[Apache License 2.0](https://github.com/arenas-guerrero-julian/pycottas/blob/main/LICENSE)**.
+**pycottas** is available under the **[Apache License 2.0](https://github.com/cottas-rdf/pycottas/blob/main/LICENSE)**.
 
 ## Author & Contact :mailbox_with_mail:
 
